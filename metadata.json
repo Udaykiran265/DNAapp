@@ -1,0 +1,5 @@
+{
+  "name": "CAD Material Notes Generator",
+  "description": "An AI-powered tool to generate standardized material and finish notes for CAD drawings. Enter a material and finish, and let Gemini AI create the precise notes you need. Includes an 'Ask AI' feature for deeper material science inquiries.",
+  "requestFramePermissions": []
+}
